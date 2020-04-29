@@ -34,6 +34,8 @@ const foods = [pizza, burger, fingerChips, donuts, springRoll];
 ```
 Create a new array named as `modifiedFood` and also create a `slice()` method.The `slice()` method should return the selected elements in an array, as a new array object. This method starts slicing the array from the given start argument and ends the slicing operation one element before the given second argument.
 
+function slice(){}
+
 ```
 Expected output: [burger, fingerShips, donuts]
 ```
